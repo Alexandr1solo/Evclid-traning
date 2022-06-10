@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let tabsBtn = document.querySelectorAll(".tabs-nav__btn");
 let tabsItem = document.querySelectorAll(".tabs-item");
 
@@ -28,7 +28,7 @@ const swiper = new Swiper('.swiper', {
       type: 'bullets',
       clickable: true,
     },
-=======
+
 let tabsBtn = document.querySelectorAll(".tabs-nav__btn");
 let tabsItem = document.querySelectorAll(".tabs-item");
 
@@ -58,5 +58,5 @@ const swiper = new Swiper('.swiper', {
       type: 'bullets',
       clickable: true,
     },
->>>>>>> b694e3deec2fbe5d74bb7590ac04a260b660fb01
+
 });
